@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "android_cafe": "https://github.com/alogiccompany-rgb/cafe-pos/releases/download/v1.1.0/cafe-manager-1.1.0.apk",
-  "android_restaurant": "https://github.com/alogiccompany-rgb/cafe-pos/releases/download/v1.1.0/restaurant-1.1.0.apk",
-  "windows": "https://github.com/alogiccompany-rgb/cafe-pos/releases/download/v1.1.0/cafe-manager-1.1.0-setup.exe"
+  "android_cafe": "",
+  "android_restaurant": "https://github.com/MunirAlFaris/cafe-management-installer/releases/download/v1.1.0/restaurant-1.1.0.apk",
+  "windows": "https://github.com/MunirAlFaris/cafe-management-installer/releases/download/v1.1.0/cafe-manager-1.1.0-setup.exe"
 }
