@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "android_cafe": "",
-  "android_restaurant": "https://github.com/MunirAlFaris/cafe-management-installer/releases/download/v1.2.0/restaurant-1.2.0.apk",
-  "windows": "https://github.com/MunirAlFaris/cafe-management-installer/releases/download/v1.2.0/cafe-manager-1.2.0-setup.exe"
+  "android_restaurant": "https://github.com/MunirAlFaris/cafe-management-installer/releases/download/v1.2.1/restaurant-1.2.1.apk",
+  "windows": "https://github.com/MunirAlFaris/cafe-management-installer/releases/download/v1.2.1/cafe-manager-1.2.1-setup.exe"
 }
